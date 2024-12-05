@@ -20,3 +20,5 @@ Arduino Projekti
 
 ## 2. projekta kods: https://github.com/HugoKocers/Arduino_HugoKocers/blob/d2295b2f2db198fad423c95c2958a3872e1c3e24/Arduino/Projekts2/Kods
 ## 2. projekta apraksts: https://github.com/HugoKocers/Arduino_HugoKocers/blob/c64dda0acde329486485d99c872ecba1bd3544a2/Arduino/Projekts2/Projekts2
+
+## 3. projekta kods: https://github.com/HugoKocers/Arduino_HugoKocers/blob/ce9ff634f739c491d90ce6c967a6fd32d71b5f8d/Arduino/Projekts3/Kods
