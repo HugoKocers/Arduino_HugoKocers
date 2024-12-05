@@ -1,1 +1,1 @@
-
+Gaismas diodes tiks pieslēgtas kā digitāla izeja, temperatūras sensors kā analoga ieeja un rezistori tiks izmantoti, lai samazinātu gaismas diožu darbu, izvairoties no pārkaršanas un pasargājot no nelabojamiem bojājumiem. Nepieciešami tikai divi stāvokļi led diodē, augsts un zems, un sensora iegūtajai vērtībai jābūt analoģiskai.
