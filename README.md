@@ -10,6 +10,8 @@ Arduino Projekti
 # 2. projekta bilde
 ![arduino02proj](https://github.com/user-attachments/assets/43f12ffa-1e6b-46b7-8229-053ea90d983e)
 
+# 3. projekta bilde
+![arduino03proj](https://github.com/user-attachments/assets/a504f015-d0f3-4950-be6a-fdabd32a3416)
 
 # 4. projekta bilde
 ![arduinocrystalball](https://github.com/user-attachments/assets/59e0de5f-d392-45a3-8dc8-fdc98374c14e)
