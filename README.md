@@ -4,6 +4,9 @@ Arduino Projekti
 3. mape - 3. projekts: mīlestības līmeņa mērītājs
 4. mape - 11. projekts: Kristāla Lode
 
+# 1. projekta bilde
+![arduino01proj](https://github.com/user-attachments/assets/74878004-d81e-4726-b82d-0291e202a9f9)
+
 # 2. projekta bilde
 ![arduino02proj](https://github.com/user-attachments/assets/43f12ffa-1e6b-46b7-8229-053ea90d983e)
 
