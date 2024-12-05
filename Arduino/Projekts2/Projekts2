@@ -1,2 +1,8 @@
 Kosmosa Kuģa Interfeiss
 
+Vispirms pārliecinieties, vai Arduino ir atvienots no strāvas avota. Pēc tam veiciet šīs darbības, lai savienotu visas circuit sastāvdaļas:
+Pievienojiet bread board Arduino 5 V (pozitīvajam) un zemajam (negatīvajam) savienojumiem.
+Ievietojiet divus sarkanos gaismas diodes slotā "e" uz bread board un zaļo gaismas diodi tajā pašā slotā zem tām.
+Piestipriniet katras gaismas diodi zemei ​​caur 220 omu rezistoru.
+Savienojiet zaļās gaismas diodes anodu ar digitālo kontaktu 3 uz Arduino un dariet to pašu ar sarkano LED 
+Novietojiet pogas slēdzi zem gaismas diodēm uz bread board savienošanas slotiem "e" un "f". Pievienojiet augstāko pusi strāvai un apakšējo pusi digitālajai tapai 2. Tajā pašā pusē pievienojiet zemei ​​10 kiloomu rezistoru.
