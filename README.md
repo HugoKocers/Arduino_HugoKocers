@@ -16,4 +16,4 @@ Arduino Projekti
 # 4. projekta bilde
 ![arduinocrystalball](https://github.com/user-attachments/assets/59e0de5f-d392-45a3-8dc8-fdc98374c14e)
 
-## projekts1 apraksts: Arduino/Projekts1/projekts1
+## projekts1 apraksts: https://github.com/HugoKocers/Arduino_HugoKocers/blob/d2295b2f2db198fad423c95c2958a3872e1c3e24/Arduino/Projekts1/projekts1
