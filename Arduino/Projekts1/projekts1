@@ -1,1 +1,13 @@
+1. projektā arduino liek iepazīt rīkus. Pastāsta ko katrs instruments arduino iepakojumā dara un liek izdarīt 1. projektu. Šajā projektā mēs iemācamies taisīt ķēdes (circuits).
 
+1. - ievietojiet melno džempera vadu GND (zemējuma) tapā uz Arduino un pēc tam 15. maizes paneļa rindas GND vietā;
+
+2. - ievietojiet sarkano džempera vadu Arduino 13. tapā un pēc tam otru galu maizēšanas dēļa F7;
+
+3. - Ievietojiet LED garo kāju H7;
+
+4. - Ievietojiet gaismas diodes īso kāju H4;
+
+5. - salieciet abas 220 omu rezistora kājas un ievietojiet vienu kāju GND vietā ap 4. rindu un otru kāju I4;
+
+6. -  savienojiet Arduino Uno ar datoru, izmantojot USB kabeli;
